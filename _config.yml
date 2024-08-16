@@ -25,9 +25,9 @@ collections:
 contact_channels_section: true
 contact_channels:
   github: "https://github.com/tzuanwang"
-  # linkedin: "https://www.linkedin.com/in/zianwang-wayne/"
+  linkedin: "https://www.linkedin.com/in/zianwang-wayne/"
   email: "zianwang.wayne@gmail.com"
-  discord: "https://discord.gg/5Rx2bfkn"
+  # discord: "https://discord.gg/5Rx2bfkn"
   # mastodon: "https://lile.cl/"
 
 ##
