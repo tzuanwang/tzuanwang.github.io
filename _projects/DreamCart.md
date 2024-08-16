@@ -9,7 +9,7 @@ tags:
 
 This project implements the wishlists service, which allows customers to make a collection of products that they wish they had the money to purchase. The service includes a REST API that provides CRUD operations for managing wishlists and wishlist items.
 
-**Technologies**: Python・JavaScript・PostgreSQL・Docker・Kubernetes・OpenShift
+**Technologies**: Python・JavaScript・PostgreSQL・Docker・Kubernetes・OpenShift \
 ***New York University***
 
 You can find it on Github:
