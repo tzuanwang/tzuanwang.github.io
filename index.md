@@ -6,7 +6,7 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Hello Friend. My Name Is Tzu-An Wang.
 
 
   **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
@@ -21,9 +21,14 @@ main_content: >
 footer: true
 permalink: /
 ---
-## Hello World
+## About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+Tzu-An Wang, currently pursuing a Master of Science in Computer Science at New York University, is poised to graduate in May 2025. His academic journey is enriched with coursework in Algorithms, Operating Systems, and Database Systems, laying a strong foundation for his career in software engineering.
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+With proficiency in a variety of programming languages including Python, C, and Java, Tzu-An is able to develop complex and efficient software solutions that meet diverse needs. His expertise extends to web development (JavaScript) and database management (SQL & NoSQL), which allows him to create responsive and user-friendly web applications and handle large datasets and perform intricate data analysis tasks.
 
+Tzu-An's professional experience includes impactful roles at Shaku Technology CO. Ltd as a Data Scientist and Just Kitchen CO. Ltd as a Data Analyst. At Shaku Technology, he significantly improved ETL efficiency by 30% through the integration of MySQL, Airflow, and BigQuery on Google Cloud Platform. At Just Kitchen, Tzu-An's development of a Python web crawler and optimization of datasets on Snowflake contributed to a 40% enhancement in the data pool and a 20% increase in business expansion efficiency, respectively.
+
+Tzu-An's academic projects further demonstrate his technical prowess and innovative thinking. He has constructed a simplified version of a Unix shell, developed a parallel run-length encoder, and created a FAT23 file recovery tool, all in C. His design of a PageRank simulator using Hadoop in Java showcases his ability to tackle complex algorithms. 
+
+Eager to continue his professional growth, Tzu-An is a cooperative team player with a detail-oriented approach, seeking opportunities to contribute to the development of software solutions. His education and diverse work experience equip him to make significant contributions to any dynamic software development team, where he can further expand his extensive knowledge and skills in software engineering.
