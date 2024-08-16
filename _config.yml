@@ -24,7 +24,6 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
   github: "https://github.com/tzuanwang"
   linkedin: "https://www.linkedin.com/in/zianwang-wayne/"
   email: "zianwang.wayne@gmail.com"
