@@ -6,18 +6,14 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. My Name Is Tzu-An Wang.
+  # Hi! My Name Is Tzu-An Wang.
 
-
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  I’m currently a MS in Computer Science student at New York University Courant Institute. My academic and career interests mainly
+  revolve around Machine Learning, Large Language Model, and Software Development, which I’ve acquired vast experience from my
+  coursework, internship, and previous full-time job.
+  
+  Besides from my career, I enjoy city walk, visiting museums, and watching broadway shows in my leisure time. Originally from Taiwan🇹🇼,
+  I’ve made my way to New York, embracing every challenging and thrilling opportunity!
 footer: true
 permalink: /
 ---
