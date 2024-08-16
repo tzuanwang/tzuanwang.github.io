@@ -3,8 +3,12 @@ layout: project
 title: DreamCart – Your Wishlist Hub
 image: /assets/images/dreamcart.png
 tags:
-  - tailwindcss
-  - html
+  - Full-Stack
+  - Python
+  - JavaScript
+  - PostgreSQL
+  - Docker
+  - Kubernetes
 ---
 **Technologies**: Python・JavaScript・PostgreSQL・Docker・Kubernetes・OpenShift \
 **New York University**
