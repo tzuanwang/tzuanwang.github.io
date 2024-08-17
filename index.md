@@ -8,11 +8,13 @@ image: /assets/images/profile.png
 main_content: >
   # Hi! I'm Tzu-An Wang Wayne
   
-  **M.S. in Computer Science, New York University | tw2770@nyu.edu**  
+  **M.S. in Computer Science, New York University | tw2770@nyu.edu**<br>
 
-  I’m currently a first year Computer Science grad student in NYU. Before that I have three years of experience working as a software and data engineer, responsible for data pipeline automation, cloud service deployment, and API integration, in food tech companies.  
-  Besides from my career, I enjoy playing music, mountain climbing, and traveling in different cultures.  
-  Feel free to connect with me via the following channels!  
+  I’m currently a first year Computer Science grad student in NYU. Before that I have three years of experience working as a software and data engineer, responsible for data pipeline automation, cloud service deployment, and API integration, in food tech companies.<br>
+
+  Besides from my career, I enjoy playing music, mountain climbing, and traveling in different cultures.<br>
+
+  Feel free to connect with me via the following channels!<br>
 footer: true
 permalink: /
 ---
