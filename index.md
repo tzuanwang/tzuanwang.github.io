@@ -6,25 +6,25 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/profile.png
 main_content: >
-  # Hi! My Name Is Tzu-An Wang.
+  # Hi! I'm Tzu-An Wang Wayne
+  ## M.S. in Computer Science, New York University | Bass Player | tw2770@nyu.edu
 
-  I’m currently a MS in Computer Science student at New York University Courant Institute. My academic and career interests mainly
-  revolve around Machine Learning, Large Language Model, and Software Development, which I’ve acquired vast experience from my
-  coursework, internship, and previous full-time job.
+  I’m currently a first year Computer Science grad student in NYU. Before that I have three years of experience working as a software/data engineer, responsible for data pipeline automation, cloud service deployment, and API integration, in food tech companies.
   
-  Besides from my career, I enjoy city walk, visiting museums, and watching broadway shows in my leisure time. Originally from Taiwan🇹🇼,
-  I’ve made my way to New York, embracing every challenging and thrilling opportunity!
+  Besides from my career, I enjoy playing music, mountain climbing, and traveling in different cultures. Feel free to connect with me via the following channels!
 footer: true
 permalink: /
 ---
 ## About me
 
-Tzu-An Wang, currently pursuing a Master of Science in Computer Science at New York University, is poised to graduate in May 2025. His academic journey is enriched with coursework in Algorithms, Operating Systems, and Database Systems, laying a strong foundation for his career in software engineering.
+I am Tzu-An Wang, currently pursuing a Master of Science in Computer Science at New York University, with graduation set for May 2025. My studies focus on areas such as DevOps, Agile Methodologies, Operating Systems, and Realtime Big Data Analytics, equipping me with the technical depth to address complex software engineering challenges.
 
-With proficiency in a variety of programming languages including Python, C, and Java, Tzu-An is able to develop complex and efficient software solutions that meet diverse needs. His expertise extends to web development (JavaScript) and database management (SQL & NoSQL), which allows him to create responsive and user-friendly web applications and handle large datasets and perform intricate data analysis tasks.
+With a solid grasp of programming languages like Python, C, Java, and JavaScript, I specialize in developing scalable, high-performance solutions. My expertise spans data management (Snowflake, MySQL, DynamoDB), web development (React.js, Node.js, Express.js), and cloud technologies (AWS, GCP, Docker, Kubernetes), allowing me to deliver full-stack applications and seamless cloud integrations.
 
-Tzu-An's professional experience includes impactful roles at Shaku Technology CO. Ltd as a Data Scientist and Just Kitchen CO. Ltd as a Data Analyst. At Shaku Technology, he significantly improved ETL efficiency by 30% through the integration of MySQL, Airflow, and BigQuery on Google Cloud Platform. At Just Kitchen, Tzu-An's development of a Python web crawler and optimization of datasets on Snowflake contributed to a 40% enhancement in the data pool and a 20% increase in business expansion efficiency, respectively.
+Professionally, I have honed my skills through hands-on experience. As a Software Engineer Intern at New York University, I led the migration of ETL processes from Oracle to Snowflake and refactored code using Snowpark to achieve a 30% performance boost. Additionally, I deployed automated time-series forecasting models on AWS for scalable student enrollment predictions. At Shaku Technology, I built a microservices architecture with REST APIs and managed cloud infrastructure processing millions of real-time transactions. My role as a Data Engineer at Just Kitchen involved optimizing Snowflake performance and deploying predictive models, resulting in cost savings and improved business intelligence.
 
-Tzu-An's academic projects further demonstrate his technical prowess and innovative thinking. He has constructed a simplified version of a Unix shell, developed a parallel run-length encoder, and created a FAT23 file recovery tool, all in C. His design of a PageRank simulator using Hadoop in Java showcases his ability to tackle complex algorithms. 
+I’ve also led the development of robust, scalable applications like LiveChat Lounge and DreamCart, applying my skills in DevOps, CI/CD pipelines, and secure authentication.
 
-Eager to continue his professional growth, Tzu-An is a cooperative team player with a detail-oriented approach, seeking opportunities to contribute to the development of software solutions. His education and diverse work experience equip him to make significant contributions to any dynamic software development team, where he can further expand his extensive knowledge and skills in software engineering.
+Driven by curiosity and precision, I am eager to continue growing as a software engineer, collaborating with teams to deliver impactful solutions.
+
+
